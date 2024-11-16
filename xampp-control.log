@@ -1,0 +1,159 @@
+4:40:38 PM  [main] 	Initializing Control Panel
+4:40:38 PM  [main] 	Windows Version:  Home  64-bit
+4:40:38 PM  [main] 	XAMPP Version: 8.2.4
+4:40:38 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:40:38 PM  [main] 	You are not running with administrator rights! This will work for
+4:40:38 PM  [main] 	most application stuff but whenever you do something with services
+4:40:38 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:40:38 PM  [main] 	about running this application with administrator rights!
+4:40:38 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:40:38 PM  [main] 	Checking for prerequisites
+4:40:39 PM  [main] 	All prerequisites found
+4:40:39 PM  [main] 	Initializing Modules
+4:40:39 PM  [Apache] 	Problem detected!
+4:40:39 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:40:39 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:40:39 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:40:39 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:40:39 PM  [main] 	Starting Check-Timer
+4:40:39 PM  [main] 	Control Panel Ready
+4:40:41 PM  [Apache] 	Problem detected!
+4:40:41 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:40:41 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:40:41 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:40:41 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:40:41 PM  [Apache] 	Attempting to start Apache app...
+4:40:42 PM  [Apache] 	Status change detected: running
+4:40:42 PM  [mysql] 	Attempting to start MySQL app...
+4:40:43 PM  [Apache] 	Status change detected: stopped
+4:40:43 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:40:43 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:40:43 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:40:43 PM  [Apache] 	Press the Logs button to view error logs and check
+4:40:43 PM  [Apache] 	the Windows Event Viewer for more clues
+4:40:43 PM  [Apache] 	If you need more help, copy and post this
+4:40:43 PM  [Apache] 	entire log window on the forums
+4:40:43 PM  [mysql] 	Status change detected: running
+4:40:45 PM  [mysql] 	Status change detected: stopped
+4:40:45 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+4:40:45 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+4:40:45 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+4:40:45 PM  [mysql] 	Press the Logs button to view error logs and check
+4:40:45 PM  [mysql] 	the Windows Event Viewer for more clues
+4:40:45 PM  [mysql] 	If you need more help, copy and post this
+4:40:45 PM  [mysql] 	entire log window on the forums
+4:40:57 PM  [Apache] 	Problem detected!
+4:40:57 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:40:57 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:40:57 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:40:57 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:40:57 PM  [Apache] 	Attempting to start Apache app...
+4:40:57 PM  [Apache] 	Status change detected: running
+4:40:58 PM  [Apache] 	Status change detected: stopped
+4:40:58 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:40:58 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:40:58 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:40:58 PM  [Apache] 	Press the Logs button to view error logs and check
+4:40:58 PM  [Apache] 	the Windows Event Viewer for more clues
+4:40:58 PM  [Apache] 	If you need more help, copy and post this
+4:40:58 PM  [Apache] 	entire log window on the forums
+4:40:59 PM  [mysql] 	Attempting to start MySQL app...
+4:40:59 PM  [mysql] 	Status change detected: running
+4:41:01 PM  [Apache] 	Problem detected!
+4:41:01 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:41:01 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:41:01 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:41:01 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:41:01 PM  [Apache] 	Attempting to start Apache app...
+4:41:01 PM  [Apache] 	Status change detected: running
+4:41:02 PM  [Apache] 	Status change detected: stopped
+4:41:02 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:02 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:02 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:02 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:02 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:02 PM  [Apache] 	If you need more help, copy and post this
+4:41:02 PM  [Apache] 	entire log window on the forums
+4:41:04 PM  [Apache] 	Problem detected!
+4:41:04 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:41:04 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:41:04 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:41:04 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:41:04 PM  [Apache] 	Attempting to start Apache app...
+4:41:04 PM  [Apache] 	Status change detected: running
+4:41:04 PM  [Apache] 	Status change detected: stopped
+4:41:04 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:04 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:04 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:04 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:04 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:04 PM  [Apache] 	If you need more help, copy and post this
+4:41:04 PM  [Apache] 	entire log window on the forums
+4:41:09 PM  [mysql] 	Attempting to stop MySQL app...
+4:41:09 PM  [mysql] 	Status change detected: stopped
+4:41:13 PM  [Apache] 	Problem detected!
+4:41:13 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:41:13 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:41:13 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:41:13 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:41:13 PM  [Apache] 	Attempting to start Apache app...
+4:41:13 PM  [Apache] 	Status change detected: running
+4:41:14 PM  [Apache] 	Status change detected: stopped
+4:41:14 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:14 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:14 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:14 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:14 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:14 PM  [Apache] 	If you need more help, copy and post this
+4:41:14 PM  [Apache] 	entire log window on the forums
+4:41:20 PM  [Apache] 	Problem detected!
+4:41:20 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:41:20 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:41:20 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:41:20 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:41:20 PM  [Apache] 	Attempting to start Apache app...
+4:41:20 PM  [Apache] 	Status change detected: running
+4:41:21 PM  [Apache] 	Status change detected: stopped
+4:41:21 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:21 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:21 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:21 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:21 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:21 PM  [Apache] 	If you need more help, copy and post this
+4:41:21 PM  [Apache] 	entire log window on the forums
+4:41:21 PM  [Apache] 	Problem detected!
+4:41:21 PM  [Apache] 	Port 80 in use by "Unable to open process" with PID 4!
+4:41:21 PM  [Apache] 	Apache WILL NOT start without the configured ports free!
+4:41:21 PM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+4:41:21 PM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+4:41:21 PM  [Apache] 	Attempting to start Apache app...
+4:41:22 PM  [Apache] 	Status change detected: running
+4:41:22 PM  [Apache] 	Status change detected: stopped
+4:41:22 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:22 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:22 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:22 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:22 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:22 PM  [Apache] 	If you need more help, copy and post this
+4:41:22 PM  [Apache] 	entire log window on the forums
+4:41:46 PM  [Apache] 	Status change detected: running
+4:41:47 PM  [Apache] 	Status change detected: stopped
+4:41:47 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:41:47 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:41:47 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:41:47 PM  [Apache] 	Press the Logs button to view error logs and check
+4:41:47 PM  [Apache] 	the Windows Event Viewer for more clues
+4:41:47 PM  [Apache] 	If you need more help, copy and post this
+4:41:47 PM  [Apache] 	entire log window on the forums
+4:43:19 PM  [Apache] 	Status change detected: running
+4:43:20 PM  [Apache] 	Status change detected: stopped
+4:43:20 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:43:20 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:43:20 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:43:20 PM  [Apache] 	Press the Logs button to view error logs and check
+4:43:20 PM  [Apache] 	the Windows Event Viewer for more clues
+4:43:20 PM  [Apache] 	If you need more help, copy and post this
+4:43:20 PM  [Apache] 	entire log window on the forums
+4:52:03 PM  [main] 	Deinitializing Modules
+4:52:03 PM  [main] 	Deinitializing Control Panel
+
